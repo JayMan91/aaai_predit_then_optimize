@@ -1,0 +1,18 @@
+2019-10-01 09:33:49,282 - root - INFO - Started
+
+2019-10-01 09:34:36,326 - root - INFO - Started
+
+2019-10-01 09:34:36,923 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-10-01 09:34:58,886 - root - INFO - Oracle called
+2019-10-01 09:35:04,556 - root - INFO - Number of constraints3480
+2019-10-01 09:35:18,450 - root - INFO - Oracle returned
+2019-10-01 09:35:18,450 - root - INFO - Oracle called
+2019-10-01 09:35:24,192 - root - INFO - Number of constraints3480
+2019-10-01 09:35:25,635 - root - INFO - Oracle returned
+2019-10-01 09:35:25,635 - root - INFO - Oracle called
+2019-10-01 09:35:48,418 - root - INFO - Started
+
+2019-10-01 09:35:48,979 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-10-01 09:36:22,820 - root - INFO - Started
+
+2019-10-01 09:36:23,351 - gurobipy - INFO - Academic license - for non-commercial use only

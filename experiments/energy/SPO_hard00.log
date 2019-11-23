@@ -1,0 +1,54 @@
+2019-09-09 19:23:48,337 - root - INFO - Started
+
+2019-09-09 19:29:54,113 - root - INFO - Started
+
+2019-09-09 19:31:50,316 - root - INFO - Started
+
+2019-09-09 19:33:32,739 - root - INFO - Started
+
+2019-09-09 19:33:36,207 - root - INFO - Started
+
+2019-09-09 19:35:25,190 - root - INFO - Started
+
+2019-09-09 19:35:42,752 - root - INFO - Started
+
+2019-09-09 19:36:25,740 - root - INFO - Started
+
+2019-09-09 19:36:56,631 - root - INFO - Started
+
+2019-09-09 19:36:57,274 - root - INFO - SPO started
+2019-09-09 19:36:57,370 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-09-09 19:45:50,076 - root - INFO - Started
+
+2019-09-09 19:45:50,601 - root - INFO - SPO started
+2019-09-09 19:45:50,674 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-10-01 09:56:55,929 - root - INFO - Started
+
+2019-10-01 09:58:46,374 - root - INFO - Started
+
+2019-10-01 09:58:47,026 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-10-01 09:59:11,812 - root - INFO - Training Initiation ! Time:2019-10-01 09:59:11.812233
+
+2019-10-01 09:59:11,814 - root - INFO - Epoch:0-0
+
+2019-10-01 09:59:11,814 - root - INFO - Solving V_true now!!!!!!!!!
+2019-10-01 09:59:17,951 - root - INFO - Number of constraints3480
+2019-10-01 09:59:40,818 - root - INFO -  V_true Solved!!!!!!!!!
+2019-10-01 09:59:47,055 - root - INFO - Number of constraints3480
+2019-10-01 10:00:08,354 - root - INFO - Epoch:0-1
+
+2019-10-01 10:00:08,355 - root - INFO - Solving V_true now!!!!!!!!!
+2019-10-01 10:00:14,896 - root - INFO - Number of constraints3480
+2019-10-01 10:00:33,359 - root - INFO -  V_true Solved!!!!!!!!!
+2019-10-01 10:00:39,643 - root - INFO - Number of constraints3480
+2019-10-01 10:01:06,799 - root - INFO - Epoch:0-2
+
+2019-10-01 10:01:06,799 - root - INFO - Solving V_true now!!!!!!!!!
+2019-10-01 10:01:13,289 - root - INFO - Number of constraints3480
+2019-10-01 10:01:25,590 - root - INFO -  V_true Solved!!!!!!!!!
+2019-10-01 10:01:32,018 - root - INFO - Number of constraints3480
+2019-10-01 10:01:57,405 - root - INFO - Epoch:0-3
+
+2019-10-01 10:01:57,405 - root - INFO - Solving V_true now!!!!!!!!!
+2019-10-01 10:02:03,865 - root - INFO - Number of constraints3480
+2019-10-01 10:02:10,305 - root - INFO -  V_true Solved!!!!!!!!!

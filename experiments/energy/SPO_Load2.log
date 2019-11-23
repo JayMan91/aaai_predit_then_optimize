@@ -1,0 +1,287 @@
+2019-09-23 11:51:14,635 - root - INFO - Started
+
+2019-09-23 11:51:15,224 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-09-23 11:51:15,405 - root - INFO - Training Initiation ! Time:2019-09-23 11:51:15.405635
+
+2019-09-23 11:51:15,405 - root - INFO - Solving Validation instances 
+2019-09-23 11:51:15,406 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,414 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,421 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,427 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,434 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,441 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,448 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,454 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,461 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,468 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,476 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,483 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,490 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,497 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,504 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,510 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,517 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,524 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,531 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,538 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,544 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,551 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,558 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,565 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,572 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,579 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,586 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,593 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,600 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,606 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,613 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,620 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,627 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,634 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,641 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,647 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,654 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,661 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,668 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,676 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,683 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,690 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,697 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,704 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,711 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,718 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,725 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,731 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,738 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,745 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,752 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,759 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,766 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,773 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,780 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,787 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,794 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,801 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,808 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,815 - root - INFO - Number of constraints189
+2019-09-23 11:51:15,821 - root - INFO - Solving Validation instances Completed ! Time:2019-09-23 11:51:15.821924
+
+2019-09-23 11:51:15,822 - root - INFO - Solving Test instances 
+2019-09-23 11:51:15,828 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,849 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,865 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,882 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,899 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,916 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,932 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,949 - root - INFO - Number of constraints111
+2019-09-23 11:51:15,965 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,014 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,040 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,061 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,081 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,100 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,117 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,134 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,151 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,168 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,186 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,203 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,220 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,236 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,253 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,271 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,287 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,303 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,320 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,337 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,354 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,370 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,387 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,403 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,420 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,438 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,454 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,471 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,488 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,504 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,521 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,540 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,557 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,575 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,592 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,609 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,625 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,642 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,660 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,679 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,697 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,714 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,731 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,748 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,764 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,781 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,798 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,815 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,832 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,849 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,865 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,882 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,899 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,916 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,932 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,949 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,966 - root - INFO - Number of constraints111
+2019-09-23 11:51:16,983 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,000 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,017 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,034 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,051 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,068 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,085 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,101 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,118 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,135 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,152 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,169 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,186 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,203 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,220 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,237 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,254 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,271 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,289 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,306 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,322 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,339 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,356 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,373 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,390 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,407 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,424 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,441 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,458 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,475 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,492 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,508 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,525 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,542 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,560 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,577 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,594 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,611 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,627 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,644 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,661 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,679 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,696 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,713 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,729 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,747 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,764 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,781 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,798 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,815 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,832 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,848 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,865 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,883 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,900 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,917 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,933 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,950 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,968 - root - INFO - Number of constraints111
+2019-09-23 11:51:17,985 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,001 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,018 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,035 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,052 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,070 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,086 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,103 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,120 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,137 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,154 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,171 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,187 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,204 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,221 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,238 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,255 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,272 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,288 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,305 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,322 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,339 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,356 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,373 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,390 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,407 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,424 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,441 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,458 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,475 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,492 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,509 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,525 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,543 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,560 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,576 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,593 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,610 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,627 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,644 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,662 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,681 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,698 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,715 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,732 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,749 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,766 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,785 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,802 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,819 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,836 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,853 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,870 - root - INFO - Number of constraints111
+2019-09-23 11:51:18,881 - root - INFO - Solving Test instances Completed ! Time:2019-09-23 11:51:18.881248
+
+2019-09-23 11:51:18,883 - root - INFO - Epoch:0-0
+
+2019-09-23 11:51:18,883 - root - INFO - Solving V_true now!!!!!!!!!
+2019-09-23 11:51:18,884 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,891 - root - INFO -  V_true Solved!!!!!!!!!
+2019-09-23 11:51:18,893 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,928 - root - INFO - Epoch:0-1
+
+2019-09-23 11:51:18,929 - root - INFO - Solving V_true now!!!!!!!!!
+2019-09-23 11:51:18,929 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,938 - root - INFO -  V_true Solved!!!!!!!!!
+2019-09-23 11:51:18,938 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,947 - root - INFO - Epoch:0-2
+
+2019-09-23 11:51:18,947 - root - INFO - Solving V_true now!!!!!!!!!
+2019-09-23 11:51:18,948 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,956 - root - INFO -  V_true Solved!!!!!!!!!
+2019-09-23 11:51:18,956 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,964 - root - INFO - Epoch:0-3
+
+2019-09-23 11:51:18,965 - root - INFO - Solving V_true now!!!!!!!!!
+2019-09-23 11:51:18,965 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,972 - root - INFO -  V_true Solved!!!!!!!!!
+2019-09-23 11:51:18,972 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,980 - root - INFO - Epoch:0-4
+
+2019-09-23 11:51:18,980 - root - INFO - Solving V_true now!!!!!!!!!
+2019-09-23 11:51:18,980 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,988 - root - INFO -  V_true Solved!!!!!!!!!
+2019-09-23 11:51:18,988 - root - INFO - Number of constraints189
+2019-09-23 11:51:18,995 - root - INFO - Epoch:0-5
+
+2019-09-23 11:51:18,995 - root - INFO - Solving V_true now!!!!!!!!!
+2019-09-23 11:51:18,996 - root - INFO - Number of constraints189
+2019-09-23 11:51:19,002 - root - INFO -  V_true Solved!!!!!!!!!
+2019-09-23 11:51:19,003 - root - INFO - Number of constraints189
+2019-09-23 11:51:19,010 - root - INFO - Epoch:0-6
+
+2019-09-23 11:51:19,010 - root - INFO - Solving V_true now!!!!!!!!!
