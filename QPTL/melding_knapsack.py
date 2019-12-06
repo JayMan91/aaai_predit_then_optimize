@@ -22,6 +22,15 @@ from collections import defaultdict
 import logging
 sys.path.insert(0, '../../EnergyCost/')
 # adapted from https://github.com/bwilder0/aaai_melding_code 
+
+## to check gradient
+grads = {}
+def save_grad(name):
+    def hook(grad):
+        grads[name] = grad
+    return hook
+####
+
 class qptl:
     def __init__(self,capacity,weights,tau=20000,doScale= True,n_items=48,epochs=10,
         net=LinearRegression,verbose=False,plotting=False,validation_relax=True,test_relax = False,
@@ -129,9 +138,11 @@ class qptl:
                 self.model_time +=solver.Runtime()
                 loss = (x.squeeze()*c_true).mean()
                 optimizer.zero_grad()
+                x.register_hook(save_grad('x'))
                 loss.backward()
                 optimizer.step()
                 subepoch += 1
+                print("grads",grads['x'])
                 if i%20==0:
                     if self.verbose:
                         dict_validation = {}

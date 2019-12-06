@@ -73004,3 +73004,16 @@
  
 2019-12-06 16:37:00,883 - gurobipy - INFO - Academic license - for non-commercial use only
 2019-12-06 16:37:00,887 - root - INFO - Epoch 0
+2019-12-06 17:21:19,068 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 17:21:19,070 - root - INFO - Epoch 0
+2019-12-06 17:21:19,080 - root - INFO - Validation starts
+ 
+2019-12-06 17:21:20,016 - root - INFO - Epoch 0::subepoch 0 Total time 0, validation time 0 & test time 0
+2019-12-06 17:21:20,099 - root - INFO - Validation starts
+ 
+2019-12-06 17:21:21,027 - root - INFO - Epoch 0::subepoch 20 Total time 1, validation time 0 & test time 1
+2019-12-06 17:21:21,113 - root - INFO - Validation starts
+ 
+2019-12-06 17:21:22,105 - root - INFO - Epoch 0::subepoch 40 Total time 3, validation time 0 & test time 2
+2019-12-06 17:21:22,191 - root - INFO - Validation starts
+ 
