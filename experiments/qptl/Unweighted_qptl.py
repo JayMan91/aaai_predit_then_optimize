@@ -16,7 +16,7 @@ logging.basicConfig(filename='Unweighted_QPTL.log', level=logging.INFO,format=fo
 
 filename = "../Results/Unweighted_QPTL.csv"
 
-(X_1gtrain, y_train, X_1gtest, y_test) = get_energy()
+(X_1gtrain, y_train, X_1gtest, y_test) = get_energy("../../prices2013.dat")
 X_1gvalidation = X_1gtest[0:2880,:]
 y_validation = y_test[0:2880]
 
