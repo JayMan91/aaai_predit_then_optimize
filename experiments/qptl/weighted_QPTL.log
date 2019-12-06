@@ -71397,3 +71397,392 @@
 2019-09-20 01:53:53,355 - root - INFO - Validation starts
  
 2019-09-20 01:53:54,340 - root - INFO - Epoch 19::subepoch 540 Total time 582, validation time 386 & test time 158
+2019-12-06 15:58:40,212 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 15:58:40,227 - root - INFO - Epoch 0
+2019-12-06 15:58:40,266 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:41,007 - root - INFO - Epoch 0::subepoch 0 Total time 0, validation time 0 & test time 0
+2019-12-06 15:58:41,054 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:41,764 - root - INFO - Epoch 0::subepoch 20 Total time 1, validation time 0 & test time 1
+2019-12-06 15:58:41,810 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:42,526 - root - INFO - Epoch 0::subepoch 40 Total time 2, validation time 0 & test time 1
+2019-12-06 15:58:42,571 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:43,297 - root - INFO - Epoch 0::subepoch 60 Total time 3, validation time 0 & test time 2
+2019-12-06 15:58:43,344 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:44,080 - root - INFO - Epoch 0::subepoch 80 Total time 3, validation time 0 & test time 2
+2019-12-06 15:58:44,125 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:44,861 - root - INFO - Epoch 0::subepoch 100 Total time 4, validation time 1 & test time 3
+2019-12-06 15:58:44,906 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:45,656 - root - INFO - Epoch 0::subepoch 120 Total time 5, validation time 1 & test time 3
+2019-12-06 15:58:45,704 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:46,440 - root - INFO - Epoch 0::subepoch 140 Total time 6, validation time 1 & test time 4
+2019-12-06 15:58:46,487 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:47,247 - root - INFO - Epoch 0::subepoch 160 Total time 7, validation time 1 & test time 5
+2019-12-06 15:58:47,294 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:48,013 - root - INFO - Epoch 0::subepoch 180 Total time 7, validation time 1 & test time 5
+2019-12-06 15:58:48,059 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:48,790 - root - INFO - Epoch 0::subepoch 200 Total time 8, validation time 1 & test time 6
+2019-12-06 15:58:48,836 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:49,591 - root - INFO - Epoch 0::subepoch 220 Total time 9, validation time 2 & test time 6
+2019-12-06 15:58:49,657 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:50,417 - root - INFO - Epoch 0::subepoch 240 Total time 10, validation time 2 & test time 7
+2019-12-06 15:58:50,461 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:51,185 - root - INFO - Epoch 0::subepoch 260 Total time 11, validation time 2 & test time 7
+2019-12-06 15:58:51,237 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:52,024 - root - INFO - Epoch 0::subepoch 280 Total time 11, validation time 2 & test time 8
+2019-12-06 15:58:52,071 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:52,855 - root - INFO - Epoch 0::subepoch 300 Total time 12, validation time 2 & test time 8
+2019-12-06 15:58:52,903 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:53,677 - root - INFO - Epoch 0::subepoch 320 Total time 13, validation time 3 & test time 9
+2019-12-06 15:58:53,724 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:54,527 - root - INFO - Epoch 0::subepoch 340 Total time 14, validation time 3 & test time 10
+2019-12-06 15:58:54,590 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:55,402 - root - INFO - Epoch 0::subepoch 360 Total time 15, validation time 3 & test time 10
+2019-12-06 15:58:55,467 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:56,299 - root - INFO - Epoch 0::subepoch 380 Total time 16, validation time 3 & test time 11
+2019-12-06 15:58:56,354 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:57,158 - root - INFO - Epoch 0::subepoch 400 Total time 17, validation time 3 & test time 12
+2019-12-06 15:58:57,215 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:58,082 - root - INFO - Epoch 0::subepoch 420 Total time 17, validation time 4 & test time 12
+2019-12-06 15:58:58,136 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:59,016 - root - INFO - Epoch 0::subepoch 440 Total time 18, validation time 4 & test time 13
+2019-12-06 15:58:59,065 - root - INFO - Validation starts
+ 
+2019-12-06 15:58:59,985 - root - INFO - Epoch 0::subepoch 460 Total time 19, validation time 4 & test time 14
+2019-12-06 15:59:00,039 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:00,851 - root - INFO - Epoch 0::subepoch 480 Total time 20, validation time 4 & test time 14
+2019-12-06 15:59:00,899 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:01,669 - root - INFO - Epoch 0::subepoch 500 Total time 21, validation time 4 & test time 15
+2019-12-06 15:59:01,719 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:02,489 - root - INFO - Epoch 0::subepoch 520 Total time 22, validation time 5 & test time 15
+2019-12-06 15:59:02,537 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:03,305 - root - INFO - Epoch 0::subepoch 540 Total time 23, validation time 5 & test time 16
+2019-12-06 15:59:03,331 - root - INFO - Epoch 1
+2019-12-06 15:59:03,334 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:04,098 - root - INFO - Epoch 1::subepoch 0 Total time 23, validation time 5 & test time 17
+2019-12-06 15:59:04,146 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:04,914 - root - INFO - Epoch 1::subepoch 20 Total time 24, validation time 5 & test time 17
+2019-12-06 15:59:04,962 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:05,734 - root - INFO - Epoch 1::subepoch 40 Total time 25, validation time 5 & test time 18
+2019-12-06 15:59:05,782 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:06,544 - root - INFO - Epoch 1::subepoch 60 Total time 26, validation time 5 & test time 18
+2019-12-06 15:59:06,591 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:07,353 - root - INFO - Epoch 1::subepoch 80 Total time 27, validation time 6 & test time 19
+2019-12-06 15:59:07,401 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:08,187 - root - INFO - Epoch 1::subepoch 100 Total time 28, validation time 6 & test time 19
+2019-12-06 15:59:08,238 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:09,067 - root - INFO - Epoch 1::subepoch 120 Total time 28, validation time 6 & test time 20
+2019-12-06 15:59:09,118 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:09,964 - root - INFO - Epoch 1::subepoch 140 Total time 29, validation time 6 & test time 21
+2019-12-06 15:59:10,016 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:10,949 - root - INFO - Epoch 1::subepoch 160 Total time 30, validation time 6 & test time 21
+2019-12-06 15:59:11,006 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:11,875 - root - INFO - Epoch 1::subepoch 180 Total time 31, validation time 7 & test time 22
+2019-12-06 15:59:11,927 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:12,771 - root - INFO - Epoch 1::subepoch 200 Total time 32, validation time 7 & test time 23
+2019-12-06 15:59:12,822 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:13,658 - root - INFO - Epoch 1::subepoch 220 Total time 33, validation time 7 & test time 23
+2019-12-06 15:59:13,709 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:14,542 - root - INFO - Epoch 1::subepoch 240 Total time 34, validation time 7 & test time 24
+2019-12-06 15:59:14,593 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:15,441 - root - INFO - Epoch 1::subepoch 260 Total time 35, validation time 7 & test time 25
+2019-12-06 15:59:15,492 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:16,327 - root - INFO - Epoch 1::subepoch 280 Total time 36, validation time 8 & test time 25
+2019-12-06 15:59:16,378 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:17,216 - root - INFO - Epoch 1::subepoch 300 Total time 37, validation time 8 & test time 26
+2019-12-06 15:59:17,267 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:18,100 - root - INFO - Epoch 1::subepoch 320 Total time 37, validation time 8 & test time 27
+2019-12-06 15:59:18,156 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:18,989 - root - INFO - Epoch 1::subepoch 340 Total time 38, validation time 8 & test time 27
+2019-12-06 15:59:19,040 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:19,885 - root - INFO - Epoch 1::subepoch 360 Total time 39, validation time 8 & test time 28
+2019-12-06 15:59:19,936 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:20,773 - root - INFO - Epoch 1::subepoch 380 Total time 40, validation time 9 & test time 29
+2019-12-06 15:59:20,824 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:21,669 - root - INFO - Epoch 1::subepoch 400 Total time 41, validation time 9 & test time 29
+2019-12-06 15:59:21,720 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:22,549 - root - INFO - Epoch 1::subepoch 420 Total time 42, validation time 9 & test time 30
+2019-12-06 15:59:22,601 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:23,494 - root - INFO - Epoch 1::subepoch 440 Total time 43, validation time 9 & test time 30
+2019-12-06 15:59:23,550 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:24,446 - root - INFO - Epoch 1::subepoch 460 Total time 44, validation time 9 & test time 31
+2019-12-06 15:59:24,498 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:25,404 - root - INFO - Epoch 1::subepoch 480 Total time 45, validation time 10 & test time 32
+2019-12-06 15:59:25,458 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:26,432 - root - INFO - Epoch 1::subepoch 500 Total time 46, validation time 10 & test time 33
+2019-12-06 15:59:26,492 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:27,363 - root - INFO - Epoch 1::subepoch 520 Total time 47, validation time 10 & test time 33
+2019-12-06 15:59:27,414 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:28,257 - root - INFO - Epoch 1::subepoch 540 Total time 48, validation time 10 & test time 34
+2019-12-06 15:59:28,285 - root - INFO - Epoch 2
+2019-12-06 15:59:28,288 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:29,133 - root - INFO - Epoch 2::subepoch 0 Total time 48, validation time 10 & test time 35
+2019-12-06 15:59:29,184 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:30,025 - root - INFO - Epoch 2::subepoch 20 Total time 49, validation time 11 & test time 35
+2019-12-06 15:59:30,077 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:30,941 - root - INFO - Epoch 2::subepoch 40 Total time 50, validation time 11 & test time 36
+2019-12-06 15:59:30,993 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:31,839 - root - INFO - Epoch 2::subepoch 60 Total time 51, validation time 11 & test time 36
+2019-12-06 15:59:31,890 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:32,725 - root - INFO - Epoch 2::subepoch 80 Total time 52, validation time 11 & test time 37
+2019-12-06 15:59:32,775 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:33,603 - root - INFO - Epoch 2::subepoch 100 Total time 53, validation time 11 & test time 38
+2019-12-06 15:59:33,654 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:34,502 - root - INFO - Epoch 2::subepoch 120 Total time 54, validation time 12 & test time 38
+2019-12-06 15:59:34,554 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:35,464 - root - INFO - Epoch 2::subepoch 140 Total time 55, validation time 12 & test time 39
+2019-12-06 15:59:35,516 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:36,418 - root - INFO - Epoch 2::subepoch 160 Total time 56, validation time 12 & test time 40
+2019-12-06 15:59:36,471 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:37,357 - root - INFO - Epoch 2::subepoch 180 Total time 57, validation time 12 & test time 41
+2019-12-06 15:59:37,411 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:38,279 - root - INFO - Epoch 2::subepoch 200 Total time 58, validation time 12 & test time 41
+2019-12-06 15:59:38,330 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:39,283 - root - INFO - Epoch 2::subepoch 220 Total time 59, validation time 13 & test time 42
+2019-12-06 15:59:39,338 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:40,264 - root - INFO - Epoch 2::subepoch 240 Total time 60, validation time 13 & test time 43
+2019-12-06 15:59:40,315 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:41,152 - root - INFO - Epoch 2::subepoch 260 Total time 60, validation time 13 & test time 43
+2019-12-06 15:59:41,202 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:42,042 - root - INFO - Epoch 2::subepoch 280 Total time 61, validation time 13 & test time 44
+2019-12-06 15:59:42,093 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:42,987 - root - INFO - Epoch 2::subepoch 300 Total time 62, validation time 13 & test time 45
+2019-12-06 15:59:43,038 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:43,886 - root - INFO - Epoch 2::subepoch 320 Total time 63, validation time 14 & test time 45
+2019-12-06 15:59:43,937 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:44,775 - root - INFO - Epoch 2::subepoch 340 Total time 64, validation time 14 & test time 46
+2019-12-06 15:59:44,826 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:45,673 - root - INFO - Epoch 2::subepoch 360 Total time 65, validation time 14 & test time 47
+2019-12-06 15:59:45,724 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:46,564 - root - INFO - Epoch 2::subepoch 380 Total time 66, validation time 14 & test time 47
+2019-12-06 15:59:46,615 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:47,522 - root - INFO - Epoch 2::subepoch 400 Total time 67, validation time 14 & test time 48
+2019-12-06 15:59:47,574 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:48,531 - root - INFO - Epoch 2::subepoch 420 Total time 68, validation time 15 & test time 49
+2019-12-06 15:59:48,584 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:49,435 - root - INFO - Epoch 2::subepoch 440 Total time 69, validation time 15 & test time 49
+2019-12-06 15:59:49,487 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:50,387 - root - INFO - Epoch 2::subepoch 460 Total time 70, validation time 15 & test time 50
+2019-12-06 15:59:50,439 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:51,307 - root - INFO - Epoch 2::subepoch 480 Total time 71, validation time 15 & test time 51
+2019-12-06 15:59:51,359 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:52,197 - root - INFO - Epoch 2::subepoch 500 Total time 72, validation time 15 & test time 51
+2019-12-06 15:59:52,247 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:53,088 - root - INFO - Epoch 2::subepoch 520 Total time 72, validation time 16 & test time 52
+2019-12-06 15:59:53,140 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:54,042 - root - INFO - Epoch 2::subepoch 540 Total time 73, validation time 16 & test time 53
+2019-12-06 15:59:54,073 - root - INFO - Epoch 3
+2019-12-06 15:59:54,075 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:54,927 - root - INFO - Epoch 3::subepoch 0 Total time 74, validation time 16 & test time 53
+2019-12-06 15:59:54,979 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:55,807 - root - INFO - Epoch 3::subepoch 20 Total time 75, validation time 16 & test time 54
+2019-12-06 15:59:55,858 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:56,697 - root - INFO - Epoch 3::subepoch 40 Total time 76, validation time 16 & test time 55
+2019-12-06 15:59:56,749 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:57,667 - root - INFO - Epoch 3::subepoch 60 Total time 77, validation time 17 & test time 55
+2019-12-06 15:59:57,728 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:58,575 - root - INFO - Epoch 3::subepoch 80 Total time 78, validation time 17 & test time 56
+2019-12-06 15:59:58,626 - root - INFO - Validation starts
+ 
+2019-12-06 15:59:59,494 - root - INFO - Epoch 3::subepoch 100 Total time 79, validation time 17 & test time 57
+2019-12-06 15:59:59,548 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:00,489 - root - INFO - Epoch 3::subepoch 120 Total time 80, validation time 17 & test time 57
+2019-12-06 16:00:00,542 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:01,384 - root - INFO - Epoch 3::subepoch 140 Total time 81, validation time 17 & test time 58
+2019-12-06 16:00:01,435 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:02,267 - root - INFO - Epoch 3::subepoch 160 Total time 82, validation time 18 & test time 59
+2019-12-06 16:00:02,318 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:03,152 - root - INFO - Epoch 3::subepoch 180 Total time 82, validation time 18 & test time 59
+2019-12-06 16:00:03,203 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:04,091 - root - INFO - Epoch 3::subepoch 200 Total time 83, validation time 18 & test time 60
+2019-12-06 16:00:04,141 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:04,979 - root - INFO - Epoch 3::subepoch 220 Total time 84, validation time 18 & test time 61
+2019-12-06 16:00:05,029 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:05,863 - root - INFO - Epoch 3::subepoch 240 Total time 85, validation time 18 & test time 61
+2019-12-06 16:00:05,915 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:06,792 - root - INFO - Epoch 3::subepoch 260 Total time 86, validation time 19 & test time 62
+2019-12-06 16:00:06,844 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:08,091 - root - INFO - Epoch 3::subepoch 280 Total time 87, validation time 19 & test time 63
+2019-12-06 16:00:08,166 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:09,141 - root - INFO - Epoch 3::subepoch 300 Total time 88, validation time 19 & test time 64
+2019-12-06 16:00:09,275 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:10,509 - root - INFO - Epoch 3::subepoch 320 Total time 90, validation time 19 & test time 65
+2019-12-06 16:00:10,569 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:11,594 - root - INFO - Epoch 3::subepoch 340 Total time 91, validation time 20 & test time 65
+2019-12-06 16:00:11,664 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:12,835 - root - INFO - Epoch 3::subepoch 360 Total time 92, validation time 20 & test time 66
+2019-12-06 16:00:12,914 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:14,076 - root - INFO - Epoch 3::subepoch 380 Total time 93, validation time 20 & test time 67
+2019-12-06 16:00:14,141 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:15,357 - root - INFO - Epoch 3::subepoch 400 Total time 95, validation time 21 & test time 68
+2019-12-06 16:00:15,449 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:16,824 - root - INFO - Epoch 3::subepoch 420 Total time 96, validation time 21 & test time 69
+2019-12-06 16:00:16,909 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:18,290 - root - INFO - Epoch 3::subepoch 440 Total time 98, validation time 21 & test time 70
+2019-12-06 16:00:18,382 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:19,701 - root - INFO - Epoch 3::subepoch 460 Total time 99, validation time 22 & test time 71
+2019-12-06 16:00:19,776 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:21,120 - root - INFO - Epoch 3::subepoch 480 Total time 100, validation time 22 & test time 72
+2019-12-06 16:00:21,203 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:22,543 - root - INFO - Epoch 3::subepoch 500 Total time 102, validation time 22 & test time 73
+2019-12-06 16:00:22,617 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:23,782 - root - INFO - Epoch 3::subepoch 520 Total time 103, validation time 23 & test time 74
+2019-12-06 16:00:23,850 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:25,011 - root - INFO - Epoch 3::subepoch 540 Total time 104, validation time 23 & test time 75
+2019-12-06 16:00:25,044 - root - INFO - Epoch 4
+2019-12-06 16:00:25,047 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:26,105 - root - INFO - Epoch 4::subepoch 0 Total time 105, validation time 23 & test time 76
+2019-12-06 16:00:26,175 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:27,234 - root - INFO - Epoch 4::subepoch 20 Total time 107, validation time 23 & test time 76
+2019-12-06 16:00:27,302 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:28,451 - root - INFO - Epoch 4::subepoch 40 Total time 108, validation time 24 & test time 77
+2019-12-06 16:00:28,518 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:29,646 - root - INFO - Epoch 4::subepoch 60 Total time 109, validation time 24 & test time 78
+2019-12-06 16:00:29,719 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:30,798 - root - INFO - Epoch 4::subepoch 80 Total time 110, validation time 24 & test time 79
+2019-12-06 16:00:30,870 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:32,250 - root - INFO - Epoch 4::subepoch 100 Total time 112, validation time 25 & test time 80
+2019-12-06 16:00:32,307 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:33,293 - root - INFO - Epoch 4::subepoch 120 Total time 113, validation time 25 & test time 81
+2019-12-06 16:00:33,344 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:34,255 - root - INFO - Epoch 4::subepoch 140 Total time 114, validation time 25 & test time 81
+2019-12-06 16:00:34,329 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:35,231 - root - INFO - Epoch 4::subepoch 160 Total time 115, validation time 25 & test time 82
+2019-12-06 16:00:35,303 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:36,154 - root - INFO - Epoch 4::subepoch 180 Total time 116, validation time 26 & test time 83
+2019-12-06 16:00:36,204 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:37,039 - root - INFO - Epoch 4::subepoch 200 Total time 116, validation time 26 & test time 83
+2019-12-06 16:00:37,090 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:37,914 - root - INFO - Epoch 4::subepoch 220 Total time 117, validation time 26 & test time 84
+2019-12-06 16:00:37,964 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:38,795 - root - INFO - Epoch 4::subepoch 240 Total time 118, validation time 26 & test time 85
+2019-12-06 16:00:38,846 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:39,701 - root - INFO - Epoch 4::subepoch 260 Total time 119, validation time 26 & test time 85
+2019-12-06 16:00:39,756 - root - INFO - Validation starts
+ 
+2019-12-06 16:00:40,607 - root - INFO - Epoch 4::subepoch 280 Total time 120, validation time 26 & test time 86
+2019-12-06 16:00:40,658 - root - INFO - Validation starts
+ 
