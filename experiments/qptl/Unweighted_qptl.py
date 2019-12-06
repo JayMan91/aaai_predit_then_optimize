@@ -43,7 +43,7 @@ for r in range(1):
             print("N : %s capacity:%d Time:%s \n" %(str(h),capa,datetime.datetime.now()))
             clf = qptl(capa,weights,epochs=20,validation=True,verbose=True,**h)
             start = time.time()
-            pdf = clf.fit(X_1gtrain,y_train,X_1gtest,y_test,X_1gvalidation,y_validation)
+            pdf = clf.fit(X_1gtrain,y_train,X_1gvalidation,y_validation,X_1gtest,y_test)
             end = time.time()
             pdf['capacity'] = capa
             pdf['hyperparams'] = [h for x in range(pdf.shape[0])]
