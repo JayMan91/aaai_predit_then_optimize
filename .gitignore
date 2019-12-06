@@ -1,0 +1,5 @@
+*.pyc
+*.log
+*.synctex.gz
+*.swp
+.ipynb_checkpoints

@@ -72922,3 +72922,85 @@
 2019-12-06 16:11:59,744 - root - INFO - Epoch 13::subepoch 160 Total time 510, validation time 148 & test time 297
 2019-12-06 16:11:59,952 - root - INFO - Validation starts
  
+2019-12-06 16:17:18,295 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 16:17:18,298 - root - INFO - Epoch 0
+2019-12-06 16:17:18,305 - root - INFO - Validation starts
+ 
+2019-12-06 16:17:19,001 - root - INFO - Epoch 0::subepoch 0 Total time 0, validation time 0 & test time 0
+2019-12-06 16:17:19,058 - root - INFO - Validation starts
+ 
+2019-12-06 16:17:19,748 - root - INFO - Epoch 0::subepoch 20 Total time 1, validation time 0 & test time 1
+2019-12-06 16:17:19,802 - root - INFO - Validation starts
+ 
+2019-12-06 16:17:20,497 - root - INFO - Epoch 0::subepoch 40 Total time 2, validation time 0 & test time 1
+2019-12-06 16:17:20,553 - root - INFO - Validation starts
+ 
+2019-12-06 16:17:21,245 - root - INFO - Epoch 0::subepoch 60 Total time 2, validation time 0 & test time 2
+2019-12-06 16:17:21,298 - root - INFO - Validation starts
+ 
+2019-12-06 16:17:21,997 - root - INFO - Epoch 0::subepoch 80 Total time 3, validation time 0 & test time 2
+2019-12-06 16:17:22,050 - root - INFO - Validation starts
+ 
+2019-12-06 16:17:22,747 - root - INFO - Epoch 0::subepoch 100 Total time 4, validation time 1 & test time 3
+2019-12-06 16:17:22,800 - root - INFO - Validation starts
+ 
+2019-12-06 16:17:23,500 - root - INFO - Epoch 0::subepoch 120 Total time 5, validation time 1 & test time 3
+2019-12-06 16:17:23,554 - root - INFO - Validation starts
+ 
+2019-12-06 16:19:24,159 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 16:19:24,162 - root - INFO - Epoch 0
+2019-12-06 16:19:24,167 - root - INFO - Validation starts
+ 
+2019-12-06 16:19:24,860 - root - INFO - Epoch 0::subepoch 0 Total time 0, validation time 0 & test time 0
+2019-12-06 16:19:24,916 - root - INFO - Validation starts
+ 
+2019-12-06 16:19:25,609 - root - INFO - Epoch 0::subepoch 20 Total time 1, validation time 0 & test time 1
+2019-12-06 16:19:25,663 - root - INFO - Validation starts
+ 
+2019-12-06 16:19:26,350 - root - INFO - Epoch 0::subepoch 40 Total time 2, validation time 0 & test time 1
+2019-12-06 16:19:26,406 - root - INFO - Validation starts
+ 
+2019-12-06 16:24:30,125 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 16:24:30,128 - root - INFO - Epoch 0
+2019-12-06 16:24:30,137 - root - INFO - Validation starts
+ 
+2019-12-06 16:24:31,239 - root - INFO - Epoch 0::subepoch 0 Total time 1, validation time 0 & test time 0
+2019-12-06 16:24:31,322 - root - INFO - Validation starts
+ 
+2019-12-06 16:24:32,423 - root - INFO - Epoch 0::subepoch 20 Total time 2, validation time 0 & test time 1
+2019-12-06 16:24:32,510 - root - INFO - Validation starts
+ 
+2019-12-06 16:30:04,102 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 16:30:04,105 - root - INFO - Epoch 0
+2019-12-06 16:30:04,111 - root - INFO - Validation starts
+ 
+2019-12-06 16:30:05,210 - root - INFO - Epoch 0::subepoch 0 Total time 1, validation time 0 & test time 0
+2019-12-06 16:30:05,299 - root - INFO - Validation starts
+ 
+2019-12-06 16:30:06,378 - root - INFO - Epoch 0::subepoch 20 Total time 2, validation time 0 & test time 1
+2019-12-06 16:30:06,464 - root - INFO - Validation starts
+ 
+2019-12-06 16:30:07,670 - root - INFO - Epoch 0::subepoch 40 Total time 3, validation time 0 & test time 2
+2019-12-06 16:30:07,744 - root - INFO - Validation starts
+ 
+2019-12-06 16:30:08,823 - root - INFO - Epoch 0::subepoch 60 Total time 4, validation time 1 & test time 3
+2019-12-06 16:30:08,896 - root - INFO - Validation starts
+ 
+2019-12-06 16:33:11,385 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 16:33:11,390 - root - INFO - Epoch 0
+2019-12-06 16:33:11,398 - root - INFO - Validation starts
+ 
+2019-12-06 16:33:12,540 - root - INFO - Epoch 0::subepoch 0 Total time 1, validation time 0 & test time 0
+2019-12-06 16:33:12,643 - root - INFO - Validation starts
+ 
+2019-12-06 16:33:13,775 - root - INFO - Epoch 0::subepoch 20 Total time 2, validation time 0 & test time 1
+2019-12-06 16:33:13,868 - root - INFO - Validation starts
+ 
+2019-12-06 16:33:14,956 - root - INFO - Epoch 0::subepoch 40 Total time 3, validation time 0 & test time 2
+2019-12-06 16:33:15,049 - root - INFO - Validation starts
+ 
+2019-12-06 16:33:16,183 - root - INFO - Epoch 0::subepoch 60 Total time 4, validation time 1 & test time 3
+2019-12-06 16:33:16,276 - root - INFO - Validation starts
+ 
+2019-12-06 16:37:00,883 - gurobipy - INFO - Academic license - for non-commercial use only
+2019-12-06 16:37:00,887 - root - INFO - Epoch 0
