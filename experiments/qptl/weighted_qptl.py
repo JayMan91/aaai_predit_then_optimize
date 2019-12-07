@@ -41,7 +41,7 @@ H_combinations={30: [{'optimizer':optim.Adam,'tau':1000},{'optimizer':optim.Adam
 180:[{'lr':1e-4,'tau':1000},{'optimizer':optim.Adam,'tau':30000}],
 210:[{'lr':1e-4,'tau':1000},{'optimizer':optim.Adam,'tau':30000}]}
 
-for r in range(20): 
+for r in range(10): 
     for capa in range(30,222,30):
         h_list = H_combinations[capa]
         for h in h_list:
@@ -52,7 +52,7 @@ for r in range(20):
             end = time.time()
             pdf['capacity'] = capa
             pdf['hyperparams'] = [h for x in range(pdf.shape[0])]
-            #pdf['total_time'] = end-start
+            pdf['total_time'] = end-start
             with open(filename, 'a') as f:
                 pdf.to_csv(f, mode='a', header=f.tell()==0,index=False)        
             del pdf

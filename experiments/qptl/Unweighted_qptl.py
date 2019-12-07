@@ -36,8 +36,8 @@ H_combinations={5: [{'lr':1e-3,'optimizer':optim.Adam}],
 45:[{'optimizer':optim.Adam,'lr':1e-4,'tau':500}]
  }
 
-for r in range(1): 
-    for capa in range(5,46,6):
+for r in range(10): 
+    for capa in range(5,46,5):
         h_list = H_combinations[capa]
         for h in h_list:
             print("N : %s capacity:%d Time:%s \n" %(str(h),capa,datetime.datetime.now()))

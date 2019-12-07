@@ -251,6 +251,7 @@ Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 16:05:56 2019
 
 Academic license - for non-commercial use only
 
+<<<<<<< Updated upstream
 Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 16:17:18 2019
 
 Academic license - for non-commercial use only
@@ -276,5 +277,20 @@ Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 16:37:00 2019
 Academic license - for non-commercial use only
 
 Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 17:21:19 2019
+=======
+Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 16:54:08 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 17:00:20 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 17:01:57 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Fri Dec  6 17:28:33 2019
+>>>>>>> Stashed changes
 
 Academic license - for non-commercial use only
