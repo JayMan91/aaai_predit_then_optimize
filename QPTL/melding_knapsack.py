@@ -19,7 +19,7 @@ import matplotlib
 matplotlib.use('agg')
 import matplotlib.pyplot as plt
 from collections import defaultdict
-import logging, random
+import logging
 sys.path.insert(0, '../../EnergyCost/')
 # adapted from https://github.com/bwilder0/aaai_melding_code 
 
@@ -121,8 +121,9 @@ class qptl:
         logger = []
         test_list = []
         n_train = 1
+        shuffled_batches = [i for i in range(n_knapsacks)]
         for e in range(epochs):
-            shuffled_batches = random.shuffle([i in range(n_knapsacks)])
+            np.random.shuffle(shuffled_batches)
             logging.info('Epoch %d'%e )
             for i in shuffled_batches:
                 n_start =  n_items*i
