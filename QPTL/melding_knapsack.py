@@ -125,8 +125,8 @@ class qptl:
         for e in range(epochs):
             np.random.shuffle(shuffled_batches)
             logging.info('Epoch %d'%e )
-            for i in shuffled_batches:
-                n_start =  n_items*i
+            for i in range(n_knapsacks):
+                n_start =  n_items*shuffled_batches[i]
                 n_stop = n_start + n_items
                 z = torch.tensor(y[n_start:n_stop],dtype=torch.float ) 
                 X_tensor= torch.tensor(X[n_start:n_stop,:],dtype=torch.float)
