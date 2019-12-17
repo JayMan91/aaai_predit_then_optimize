@@ -23,13 +23,6 @@ import logging
 sys.path.insert(0, '../../EnergyCost/')
 # adapted from https://github.com/bwilder0/aaai_melding_code 
 
-## to check gradient
-grads = {}
-def save_grad(name):
-    def hook(grad):
-        grads[name] = grad
-    return hook
-####
 
 class qptl:
     def __init__(self,capacity,weights,tau=20000,doScale= True,n_items=48,epochs=10,
@@ -144,21 +137,11 @@ class qptl:
                 loss.backward()
                 optimizer.step()
                 subepoch += 1
-                print("grads",grads['x'])
                 if i%20==0:
                     if self.verbose:
                         dict_validation = {}
                         logging.info('Validation starts\n ' )
-                        #train_result = self.test(X,y)
-                        
-                        ##### to be deleted ###########
-                        # train_result = self.test(X  ,y,relaxation = False)
-                        # dict_validation['training_regret'] = train_result[0]
-                        # dict_validation['training_mse'] = train_result[1]
-                        # dict_validation['training_accuracy'] = train_result[2]
-                        # dict_validation['training_loss'] = train_result[3] 
-                        # print("Loss: at Epoch %d is %f Regret %f "%(subepoch,train_result[3],train_result[0]))
-                        ############################ ###################                       
+                        #train_result = self.test(X,y)     
                         if validation:
                             start_validation = time.time()
                             validation_result = self.test(X_validation,y_validation,relaxation = validation_relax)
