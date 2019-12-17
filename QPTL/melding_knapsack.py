@@ -133,7 +133,6 @@ class qptl:
                 self.model_time +=solver.Runtime()
                 loss = (x.squeeze()*c_true).mean()
                 optimizer.zero_grad()
-                x.register_hook(save_grad('x'))
                 loss.backward()
                 optimizer.step()
                 subepoch += 1
