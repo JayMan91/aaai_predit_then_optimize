@@ -196,7 +196,8 @@ class qptl_ICON:
                 
                 solver = QPFunction(verbose=False, solver=QPSolvers.GUROBI, model_params=model_params_quad)
                 x = solver(Q.expand(n_train, *Q.shape),
-                c_pred.squeeze(), G.expand(n_train, *G.shape), h.expand(n_train, *h.shape), torch.Tensor(), torch.Tensor())
+                c_pred.squeeze(), G.expand(n_train, *G.shape), h.expand(n_train, *h.shape), 
+                A.expand(n_train, *A.shape), b.expand(n_train, *b.shape))
                 #logging.info('Call to qp function ends' )
                 
                 self.model_time +=solver.Runtime()
