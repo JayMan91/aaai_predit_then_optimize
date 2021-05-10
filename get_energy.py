@@ -20,8 +20,8 @@ def get_energy(fname=None, trainTestRatio=0.70):
     grouplength = 48
 
     # numpy arrays, X contains groupID as first column
-    X1g = df.loc[:, df.columns != 'SMPEP2'].as_matrix()
-    y = df.loc[:, 'SMPEP2'].as_matrix()
+    X1g = df.loc[:, df.columns != 'SMPEP2'].values
+    y = df.loc[:, 'SMPEP2'].values
 
     #no negative values allowed...for now I just clamp these values to zero. They occur three times in the training data.
     for i in range(len(y)):
